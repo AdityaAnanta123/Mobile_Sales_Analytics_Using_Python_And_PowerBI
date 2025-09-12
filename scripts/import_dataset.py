@@ -30,7 +30,7 @@ def download_kaggle_dataset(url, dest_folder):
 
 if __name__ == "__main__":
     # 🔗 URL dataset smartphone sales 
-    url = "https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset"
+    url = "https://www.kaggle.com/datasets/vinothkannaece/mobiles-and-laptop-sales-data"
 
     # 📂 Path dest folder/ directory
     dest_folder = r"D:\Portofolio\Portofolio Mobile Phone Sales\data"
