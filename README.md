@@ -37,6 +37,7 @@ Alur kerja dibagi menjadi **3 bagian utama**:
 
 
 ## 📂 Struktur Project
+```bash
 ├── data/ # Dataset (CSV hasil preprocessing)
 │ ├── mobile_data.csv
 │ └── mobile_sales_data.csv
@@ -65,5 +66,6 @@ Alur kerja dibagi menjadi **3 bagian utama**:
 ```bash
 git clone https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI.git
 cd Mobile_Sales_Analytics_Using_Python_And_PowerBI
+
 
 
