@@ -99,13 +99,12 @@ Dashboard is ready to use 🚀
 ## 📸 Dashboard Preview
 Here are sample screenshots from the Power BI dashboard:
 ### 📌 Halaman Overview
-![Overview Dashboard](dashboards/screenshots/overview.png)
+![Overview Dashboard](dashboards/Overview Page.png)
 
 ### 📌 Halaman Product Analysis
-![Product Dashboard](dashboards/screenshots/product.png)
+![Product Dashboard](dashboards/Product Page.png)
 
 ### 📌 Halaman Report
-![Report Dashboard](dashboards/screenshots/report.png)
+![Report Dashboard](dashboards/Report Page.png)
 
-yaml
-Copy code
+
