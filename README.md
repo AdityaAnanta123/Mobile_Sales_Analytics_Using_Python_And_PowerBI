@@ -40,15 +40,18 @@ Alur kerja dibagi menjadi **3 bagian utama**:
 ├── data/ # Dataset (CSV hasil preprocessing)
 │ ├── mobile_data.csv
 │ └── mobile_sales_data.csv
+│
 ├── scripts/ # Python scripts untuk ETL
 │ ├── import_dataset.py
 │ ├── import_mysql.py
 │ └── preprocessing.py
-├── dashboards/ # File Power BI (.pbix)
+│
+├── dashboards/ # File Power BI (.pbix) + Screenshot
 │ ├── Mobile_Sales_Dashboard.pbix
 │ ├── Overview Page.png
 │ ├── Product Page.png
 │ └── Report Page.png
+│
 └── README.md
 
 ## 🛠️ Teknologi & Library yang Digunakan
@@ -62,4 +65,5 @@ Alur kerja dibagi menjadi **3 bagian utama**:
 ```bash
 git clone https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI.git
 cd Mobile_Sales_Analytics_Using_Python_And_PowerBI
+
 
