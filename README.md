@@ -99,13 +99,14 @@ Dashboard is ready to use 🚀
 ## 📸 Dashboard Preview
 Here are sample screenshots from the Power BI dashboard:
 ### 📌 Halaman Overview
-[Overview Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Overview%20Page.png)
+![Overview Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Overview%20Page.png)
 
 ### 📌 Halaman Product Analysis
-[Product Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Product%20Page.png)
+![Product Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Product%20Page.png)
 
 ### 📌 Halaman Report
 ![Report Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Report%20Page.png)
+
 
 
 
