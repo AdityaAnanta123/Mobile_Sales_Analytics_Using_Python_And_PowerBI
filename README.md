@@ -32,7 +32,20 @@ The workflow is divided into **3 main parts**:
   1. **Overview** → KPI summary (Total Sales, Profit, Quantity, Avg. Margin).  
   2. **Product Analysis** → detailed product & brand analysis (Top-N products, YoY Sales %, Revenue vs Profit Margin scatter plot).  
   3. **Report Table** → complete data table with interactive filters.  
-- Slicers are added (Brand, Region, Year) for dynamic analysis.  
+- Slicers are added (Brand, Region, Year) for dynamic analysis.
+
+## 🔍 Key Insights from Dashboard
+
+Beberapa temuan penting dari analisis penjualan Mobile & Laptop:
+
+- 📈 **Sales Trend**: Penjualan cenderung meningkat pada periode tertentu (seasonality) dan beberapa brand menunjukkan pertumbuhan konsisten.
+- 🏆 **Top Brands**: Brand tertentu mendominasi revenue dengan kontribusi terbesar terhadap total sales.
+- 💸 **Profitability**: Tidak semua produk dengan penjualan tinggi memiliki profit margin yang tinggi → beberapa brand menghasilkan revenue besar namun margin rendah.
+- 🌍 **Regional Performance**: Wilayah tertentu menyumbang porsi penjualan terbesar, sedangkan wilayah lain relatif tertinggal.
+- 📊 **YoY Growth**: Analisis Year-over-Year (YoY) memperlihatkan produk/brand mana yang mengalami kenaikan atau penurunan penjualan dibandingkan tahun sebelumnya.
+- 📉 **Low Performers**: Ada beberapa produk dengan quantity tinggi tapi revenue rendah → indikasi harga murah atau margin tipis.
+
+👉 Dengan dashboard ini, user bisa **membandingkan brand, memantau pertumbuhan tahunan, dan mengidentifikasi produk yang paling menguntungkan maupun merugikan**.
 
 ## 📂 Project Structure
 ```bash
@@ -106,6 +119,7 @@ Here are sample screenshots from the Power BI dashboard:
 
 ### 📌 Halaman Report
 ![Report Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Report%20Page.png)
+
 
 
 
