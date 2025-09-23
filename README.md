@@ -36,16 +36,16 @@ The workflow is divided into **3 main parts**:
 
 ## 🔍 Key Insights from Dashboard
 
-Beberapa temuan penting dari analisis penjualan Mobile & Laptop:
+Some important findings from the Mobile & Laptop sales analysis:
 
-- 📈 **Sales Trend**: Penjualan cenderung meningkat pada periode tertentu (seasonality) dan beberapa brand menunjukkan pertumbuhan konsisten.
-- 🏆 **Top Brands**: Brand tertentu mendominasi revenue dengan kontribusi terbesar terhadap total sales.
-- 💸 **Profitability**: Tidak semua produk dengan penjualan tinggi memiliki profit margin yang tinggi → beberapa brand menghasilkan revenue besar namun margin rendah.
-- 🌍 **Regional Performance**: Wilayah tertentu menyumbang porsi penjualan terbesar, sedangkan wilayah lain relatif tertinggal.
-- 📊 **YoY Growth**: Analisis Year-over-Year (YoY) memperlihatkan produk/brand mana yang mengalami kenaikan atau penurunan penjualan dibandingkan tahun sebelumnya.
-- 📉 **Low Performers**: Ada beberapa produk dengan quantity tinggi tapi revenue rendah → indikasi harga murah atau margin tipis.
+- 📈 **Sales Trend**: Sales show an upward trend in certain periods (seasonality), with some brands demonstrating consistent growth.  
+- 🏆 **Top Brands**: A few brands dominate the revenue, contributing the largest share of total sales.  
+- 💸 **Profitability**: Not all high-sales products generate high profit margins → some brands drive large revenues but operate on thin margins.  
+- 🌍 **Regional Performance**: Certain regions contribute the majority of sales, while others lag behind.  
+- 📊 **YoY Growth**: Year-over-Year (YoY) analysis highlights which products/brands have increased or decreased sales compared to the previous year.  
+- 📉 **Low Performers**: Some products have high quantities sold but low revenue → indicating either low pricing or thin profit margins.  
 
-👉 Dengan dashboard ini, user bisa **membandingkan brand, memantau pertumbuhan tahunan, dan mengidentifikasi produk yang paling menguntungkan maupun merugikan**.
+👉 With this dashboard, users can **compare brands, monitor annual growth, and identify the most profitable as well as underperforming products**.
 
 ## 📂 Project Structure
 ```bash
@@ -119,6 +119,7 @@ Here are sample screenshots from the Power BI dashboard:
 
 ### 📌 Halaman Report
 ![Report Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI/blob/main/dashboards/Report%20Page.png)
+
 
 
 
